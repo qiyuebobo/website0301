@@ -8,6 +8,8 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/48d9d673-f3cb-40d5-be01-74a2d591e669
 
+Live Site (Vercel): `https://website0301.vercel.app/`
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
